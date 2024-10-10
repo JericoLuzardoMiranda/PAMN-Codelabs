@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_text">Jericó Luzardo Miranda</string>
+    <string name="profession_text">Ingeniero Informático</string>
+    <string name="number_phone_text">+34 123 456 789</string>
+    <string name="person_text">\@usuario</string>
+    <string name="correo_text">correo@example.com</string>
+</resources>
