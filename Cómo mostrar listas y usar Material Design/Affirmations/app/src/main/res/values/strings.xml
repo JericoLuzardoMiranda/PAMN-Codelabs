@@ -1,0 +1,107 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Día 1: Sentadillas</string>
+    <string name="description1">3 series de 15 repeticiones</string>
+
+    <string name="affirmation2">Día 2: Flexiones de brazos</string>
+    <string name="description2">3 series de 10 repeticiones</string>
+
+    <string name="affirmation3">Día 3: Plancha</string>
+    <string name="description3">Durante 30 segundos</string>
+
+    <string name="affirmation4">Día 4: Estiramientos de piernas</string>
+    <string name="description4">Durante 20 segundos cada pierna</string>
+
+    <string name="affirmation5">Día 5: Saltos de tijera</string>
+    <string name="description5">3 series de 30 segundos</string>
+
+    <string name="affirmation6">Día 6: Abdominales</string>
+    <string name="description6">3 series de 20 repeticiones</string>
+
+    <string name="affirmation7">Día 7: Caminata</string>
+    <string name="description7">20 minutos</string>
+
+    <string name="affirmation8">Día 8: Sentadilla con salto</string>
+    <string name="description8">3 series de 10 repeticiones</string>
+
+    <string name="affirmation9">Día 9: Flexiones con rodillas</string>
+    <string name="description9">4 series de 10 repeticiones</string>
+
+    <string name="affirmation10">Día 10: Plancha lateral</string>
+    <string name="description10">30 segundos por cada lado</string>
+
+    <string name="affirmation11">Día 11: Escaladores</string>
+    <string name="description11">3 series de 20 repeticiones</string>
+
+    <string name="affirmation12">Día 12: Burpees</string>
+    <string name="description12">3 series de 8 repeticiones</string>
+
+    <string name="affirmation13">Día 13: Estiramientos de cuerpo completo</string>
+    <string name="description13">5 minutos</string>
+
+    <string name="affirmation14">Día 14: Sentadillas isométricas</string>
+    <string name="description14">Durante 40 segundos</string>
+
+    <string name="affirmation15">Día 15: Flexiones avanzadas</string>
+    <string name="description15">3 series de 12 repeticiones</string>
+
+    <string name="affirmation16">Día 16: Saltos con tijera</string>
+    <string name="description16">3 series de 30 segundos</string>
+
+    <string name="affirmation17">Día 17: Plancha con levantamiento de una pierna</string>
+    <string name="description17">30 segundos por cada pierna</string>
+
+    <string name="affirmation18">Día 18: Escaladores cruzados</string>
+    <string name="description18">3 series de 25 repeticiones</string>
+
+    <string name="affirmation19">Día 19: Zancadas</string>
+    <string name="description19">3 series de 12 repeticiones por cada pierna</string>
+
+    <string name="affirmation20">Día 20: Abdominales cruzados</string>
+    <string name="description20">3 series de 20 repeticiones</string>
+
+    <string name="affirmation21">Día 21: Caminata</string>
+    <string name="description21">20 minutos</string>
+
+    <string name="affirmation22">Día 22: Saltos en caja</string>
+    <string name="description22">3 series de 10 repeticiones</string>
+
+    <string name="affirmation23">Día 23: Flexiones diamante</string>
+    <string name="description23">3 series de 10 repeticiones</string>
+
+    <string name="affirmation24">Día 24: Bicicleta eliptica</string>
+    <string name="description24">15 minutos</string>
+
+    <string name="affirmation25">Día 25: Abdominales en bicicleta</string>
+    <string name="description25">3 series de 20 repeticiones</string>
+
+    <string name="affirmation26">Día 26: Sentadillas con pelotas de pilates</string>
+    <string name="description26">3 series de 12 repeticiones</string>
+
+    <string name="affirmation27">Día 27: Triceps dips</string>
+    <string name="description27">3 series de 15 repeticiones</string>
+
+    <string name="affirmation28">Día 28: Zancada lateral con banda elástica</string>
+    <string name="description28">3 series de 15 repeticiones</string>
+
+    <string name="affirmation29">Día 29: Rodillas al pecho</string>
+    <string name="description29">3 series de 30 segundos</string>
+
+    <string name="affirmation30">Día 30: Puente de glúteos</string>
+    <string name="description30">3 series de 20 repeticiones</string>
+</resources>
