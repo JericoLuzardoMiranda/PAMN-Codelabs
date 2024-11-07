@@ -54,7 +54,7 @@
   <tr>
     <td align="center"><img src="https://github.com/JericoLuzardoMiranda/PAMN-Codelabs/blob/7595ef41e5591ce03ef69d7b15441bd16f6958d2/Compila%20la%20IU%20de%20una%20app/Videos/LemonadeVideo.gif" alt="Lemonade-GIF" width="200px"></td>
     <td align="center"><img src="https://github.com/JericoLuzardoMiranda/PAMN-Codelabs/blob/7595ef41e5591ce03ef69d7b15441bd16f6958d2/Compila%20la%20IU%20de%20una%20app/Videos/ArtSpaceVideo.gif" alt="ArtSpace-GIF" width="200px"></td>
-    <td align="center"><img src="https://github.com/JericoLuzardoMiranda/PAMN-Codelabs/blob/7595ef41e5591ce03ef69d7b15441bd16f6958d2/C%C3%B3mo%20mostrar%20listas%20y%20usar%20Material%20Design/Videos/AffirmationsAndMaterialDesignVideo.gif" alt="Affirmations-GIF" width="200px"></td>
+    <td align="center"><img src="https://github.com/JericoLuzardoMiranda/PAMN-Codelabs/blob/main/C%C3%B3mo%20mostrar%20listas%20y%20usar%20Material%20Design%2FVideos%2FAffirmationsAndMaterialDesignVideo.gif" alt="Affirmations-GIF" width="200px"></td>
   </tr>
 </table>
 
