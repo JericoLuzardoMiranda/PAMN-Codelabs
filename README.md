@@ -16,7 +16,7 @@
    - **Lemonade**: Se desarrolla una app que simula la producción y venta de limonada.
    - **ArtSpace**: Se diseña una galería de arte interactiva.
 
-3. [Cómo mostrar listas y usar Material Design](https://github.com/JericoLuzardoMiranda/PAMN-Codelabs/tree/bd567bc13039bedc16c0e44b70c9189cd66450e5/C%C3%B3mo%20mostrar%20listas%20y%20usar%20Material%20Design)
+3. [Mostrar listas & Material Design](https://github.com/JericoLuzardoMiranda/PAMN-Codelabs/tree/651b680f9738dc6449769e6ad76a559b0c37e043/Mostrar%20listas%20%26%20Material%20Design)
 
    Aquí aprenderemos a trabajar con listas y a aplicar los principios de **Material Design**.
    - **Affirmations**: Se desarrolla un app de 30 días de actividad física que utiliza listas y componentes de Material Design.
@@ -54,7 +54,7 @@
   <tr>
     <td align="center"><img src="https://github.com/JericoLuzardoMiranda/PAMN-Codelabs/blob/7595ef41e5591ce03ef69d7b15441bd16f6958d2/Compila%20la%20IU%20de%20una%20app/Videos/LemonadeVideo.gif" alt="Lemonade-GIF" width="200px"></td>
     <td align="center"><img src="https://github.com/JericoLuzardoMiranda/PAMN-Codelabs/blob/7595ef41e5591ce03ef69d7b15441bd16f6958d2/Compila%20la%20IU%20de%20una%20app/Videos/ArtSpaceVideo.gif" alt="ArtSpace-GIF" width="200px"></td>
-    <td align="center"><img src="https://github.com/JericoLuzardoMiranda/PAMN-Codelabs/blob/main/C%C3%B3mo%20mostrar%20listas%20y%20usar%20Material%20Design%2FVideos%2FAffirmationsAndMaterialDesignVideo.gif" alt="Affirmations-GIF" width="200px"></td>
+    <td align="center"><img src="https://github.com/JericoLuzardoMiranda/PAMN-Codelabs/blob/651b680f9738dc6449769e6ad76a559b0c37e043/Mostrar%20listas%20%26%20Material%20Design/Videos/AffirmationsAndMaterialDesignVideo.gif" alt="Affirmations-GIF" width="200px"></td>
   </tr>
 </table>
 
